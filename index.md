@@ -8,11 +8,15 @@ You can visit [my portfolio](file:///C:/Users/chuck/Documents/COGS%203/final_por
 I have used:
 
 1. HTML
+   - COGS 3 and High School
 2. CSS
+   - COGS 3 and High School
 3. JavaScript
+   - COGS 3
 4. Bootstrap
+   - COGS 3
 5. Figma
-   - Most of these I learned or revisited in COGS 3
+   - COGS 3
 
 ### Back-End
 
@@ -79,4 +83,6 @@ Thank you for taking the time to read my webpage!
 
 And thank you @chauvu (idk her github name) for helping me!
 
-:hugs: Note: This emoji shows up on github
+:hugs: 
+
+~~Note: This emoji shows up on github~~

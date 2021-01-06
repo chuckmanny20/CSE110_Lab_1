@@ -6,11 +6,13 @@ You can visit [my portfolio](file:///C:/Users/chuck/Documents/COGS%203/final_por
 ### Front-End
 
 I have used:
+
 1. HTML
 2. CSS
 3. JavaScript
 4. Bootstrap
 5. Figma
+   - Most of these I learned or revisited in COGS 3
 
 ### Back-End
 
@@ -20,6 +22,17 @@ I have used:
 - C++
 - Java
 - Verilog
+
+- [x] CSE 11
+- [x] CSE 12
+- [x] CSE 20/21
+- [x] CSE 30
+- [x] CSE 100
+- [x] CSE 101
+- [ ] CSE 110
+- [ ] CSE 130
+- [x] CSE 140/140L
+- [ ] CSE 141/141L
 
 ### Developing Algorithms
 
@@ -63,5 +76,7 @@ My favorite quote is from Albert Einstein:
 I'm good at talking with people and working together on group projects. Especially with people that I have gotten to know.
 
 Thank you for taking the time to read my webpage!
+
+And thank you @chauvu (idk her github name) for helping me!
 
 :hugs:

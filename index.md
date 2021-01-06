@@ -1,37 +1,67 @@
-## Welcome to GitHub Pages
+# Liam O'Brien
+## Developer, Programmer, Computer Scientist
 
-You can use the [editor on GitHub](https://github.com/chuckmanny20/CSE110_Lab_1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You can visit [my portfolio](file:///C:/Users/chuck/Documents/COGS%203/final_portfolio/O'Brienindex.html) to see my past work (I have one on my computer but no site hosting it). 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Front-End
 
-### Markdown
+I have used:
+1. HTML
+2. CSS
+3. JavaScript
+4. Bootstrap
+5. Figma
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Back-End
+
+I have used:
+
+- C
+- C++
+- Java
+- Verilog
+
+### Developing Algorithms
+
+I learned techniques such as Backtracing, Dynamic Programming, and Greedy Algorithms.
+
+#### Example Algorithm
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+Problem: Least Amount of Damage to get from Column 1 to Column n.
+Given a n x n matrix filled with damage values at each cell.
+Step 1: Let M[i,j]M[i,j] be the minimum amount of damage to get from the left column to cell (i,j)(i,j) (including the damage from cell (i,j)(i,j)).
+Step 2: Base Cases: M[i][1] = A[i][1] for all i >= 1.
+Step 3: Recursion: Three Cases, Three directions to travel from:
+Up-Right: M[i][j] = M[i+1][j-1] + A[i][j] only if i+1 <= n and j-1 >= 1
+Right: M[i][j] = M[i][j-1] + A[i][j] only if j-1 >= 1
+Down-Right: M[i][j] = M[i-1][j-1] + A[i][j] only if i-1 >= 1 and j-1 >= 1
+Take minimum of all 3 since you don't know until you calculate.
+M[i][j] = Min(M[i+1][j-1] + A[i][j], M[i][j-1] + A[i][j], M[i-1][j-1] + A[i][j])
+Step 4: Order of problems: Vertical slices, left to right
+Step 5: Output = Min( M[i][n] ) where i goes from 1 to n.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Important Algorithms
 
-### Jekyll Themes
+I have studied _important_ and _vastly_ used algorithms such as **BFS/DFS, Huffman Encoding, Quicksort, Graphsearch, and more.**
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chuckmanny20/CSE110_Lab_1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+I'd probably put a picture of some front-end stuff here if this was a serious site.
 
-### Support or Contact
+About me:
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+I really like pasta, especially mac n cheese, pizza, and wings.
+
+My favorite quote is from Albert Einstein:
+
+>Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.
+
+![Mac n Cheese](https://www.momontimeout.com/wp-content/uploads/2018/10/homemade-mac-and-cheese-recipe-titled.jpg)
+
+I'm good at talking with people and working together on group projects. Especially with people that I have gotten to know.
+
+Thank you for taking the time to read my webpage!
+
+:hugs:

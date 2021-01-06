@@ -63,7 +63,7 @@ I have studied _important_ and _vastly_ used algorithms such as **BFS/DFS, Huffm
 
 I'd probably put a picture of some front-end stuff here if this was a serious site.
 
-About me:
+### About me:
 
 I really like pasta, especially mac n cheese, pizza, and wings.
 

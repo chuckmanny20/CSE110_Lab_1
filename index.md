@@ -23,7 +23,7 @@ I have used:
 
 ### Developing Algorithms
 
-I learned techniques such as Backtracing, Dynamic Programming, and Greedy Algorithms.
+I have learned many techniques such as Backtracing, Dynamic Programming, and Greedy Algorithms.
 
 #### Example Algorithm
 

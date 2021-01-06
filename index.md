@@ -79,4 +79,4 @@ Thank you for taking the time to read my webpage!
 
 And thank you @chauvu (idk her github name) for helping me!
 
-:hugs:
+:hugs: Note: This emoji shows up on github

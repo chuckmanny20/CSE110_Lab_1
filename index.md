@@ -1,7 +1,7 @@
 # Liam O'Brien
 ## Developer, Programmer, Computer Scientist
 
-You can visit [my portfolio](file:///C:/Users/chuck/Documents/COGS%203/final_portfolio/O'Brienindex.html) to see my past work (I have one on my computer but no site hosting it). 
+You can visit [my portfolio](https://www.youtube.com/watch?v=4SDN8TYaCIY) to see my past work (I have one on my computer but no site hosting it right now it just links to a random video). 
 
 ### Front-End
 
@@ -75,7 +75,7 @@ My favorite quote is from Albert Einstein:
 
 >Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.
 
-![Mac n Cheese](https://www.momontimeout.com/wp-content/uploads/2018/10/homemade-mac-and-cheese-recipe-titled.jpg)
+![Mac n Cheese](https://www.bargainw.com/assets/Image/Product/thumb/552640.jpg)
 
 I'm good at talking with people and working together on group projects. Especially with people that I have gotten to know.
 
